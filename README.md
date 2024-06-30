@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @maheedhargowd
-- 👀 I’m interested in web and android application development 
-- 🌱 I’m currently learning front end webdevelopment using reactjs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
