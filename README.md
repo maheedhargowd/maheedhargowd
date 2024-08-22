@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @maheedhargowd
+- DataAnalyst Intern at Corizo Edutech 
 - Aspiring DataAnalyst
 - 📫 contact me @ maheedhargowd@gmail.com
 
