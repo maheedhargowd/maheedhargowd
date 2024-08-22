@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maheedhargowd
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Aspiring DataAnalyst
+- 📫 contact me @ maheedhargowd@gmail.com
 
 <!---
 maheedhargowd/maheedhargowd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
